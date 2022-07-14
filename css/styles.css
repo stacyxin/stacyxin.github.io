@@ -28,6 +28,7 @@
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
+  --bs-self: #198754;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
@@ -7366,6 +7367,10 @@ textarea.form-control-lg {
 
 .text-info {
   color: #0dcaf0 !important;
+}
+
+.text-self {
+  color: #198754 !important;
 }
 
 .text-warning {
