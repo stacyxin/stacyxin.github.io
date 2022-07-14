@@ -7370,7 +7370,7 @@ textarea.form-control-lg {
 }
 
 .text-self {
-  color: #198754 !important;
+  color: #0b2580 !important;
 }
 
 .text-warning {
@@ -7427,6 +7427,10 @@ textarea.form-control-lg {
 
 .bg-info {
   background-color: #0dcaf0 !important;
+}
+
+.bg-self {
+  background-color: #0b2580 !important;
 }
 
 .bg-warning {
